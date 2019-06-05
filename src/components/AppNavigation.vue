@@ -3,6 +3,7 @@
 </template>
 <script>
 export default {
-  name: 'Home'
+  name: 'AppNavigation'
 };
 </script>
+<style></style>
